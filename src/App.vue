@@ -6,6 +6,13 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  data: function() {
+    return {
+      textEslint: 'dasdf',
+      try: 'sdf',
+      asdf: 'lvoe'
+    }
+  }
 }
 </script>
